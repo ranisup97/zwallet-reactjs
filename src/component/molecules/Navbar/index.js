@@ -69,7 +69,7 @@ import NavigationMobile from '../NavigationMobile';
                 <div className="row">
                   <div className="col-3">
                     <Link to="/profile">
-                      <img alt="" src={stateGlobal.s} />
+                      <img alt="" src={stateGlobal.photo} />
                     </Link>
 
                   </div>
