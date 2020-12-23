@@ -13,8 +13,12 @@ ZWallet ini digunakan untuk bayar, beli dan transfer ke bank lain, ada juga fitu
 
 ### `Features Available`
 
-- Transfer
+* Transfer
 * Top Up
+* change password
+* change pin
+* forgot password
+* change photo
 
 ### `Prerequisites`
 
@@ -22,11 +26,10 @@ ZWallet ini digunakan untuk bayar, beli dan transfer ke bank lain, ada juga fitu
   - NPM or Yarn as package manager
   - react native
   
-### `How To Install`
-Download the projects: 
+### `How To Install` 
 ```bash
-git clone https://github.com/ranisup97/zwallet-reactjs;
-cd folder zwallet-reactjs
+git clone https://github.com/ranisup97/zwallet-reactjs.git;
+cd folder zwallet-reactjs;
 npm install or yarn;
 npm start;
 
