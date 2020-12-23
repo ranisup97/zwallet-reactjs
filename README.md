@@ -3,11 +3,13 @@
 		ZWallet Web
 	</a>
 </h1>
+<h4 align="center">
+Start using financial applications that can provide flexibility for you to use your existing balance</h4>
 
 
 ### # ABOUT THIS APP
-ZWallet is an application or feature developed to make it easier for people to do all their financial affairs. The solution that is already available to the people of Indonesia is an application called ZWallet. ZWallet can be opened on the website. ZWallet does not only provide services to support you when shopping.
-ZWallet also arranges so that you can still use the funds to pay for various needs. This means that besides being able to be used to shop online, you can also use it to pay, buy and transfer to other banks. Bills that you can pay using ZWallet also range from electricity bills, BPJS Health to credit cards. There is also an e-wallet top up feature.Start using financial applications that can provide flexibility for you to use your existing balance.
+ZWallet merupakan aplikasi atau fitur yang dikembangkan untuk memudahkan masyarakat dalam melakukan segala urusan keuangannya. 
+ZWallet ini digunakan untuk bayar, beli dan transfer ke bank lain, ada juga fitur top up e-wallet.
 
 ### `Features Available`
 
@@ -23,9 +25,10 @@ ZWallet also arranges so that you can still use the funds to pay for various nee
 ### `How To Install`
 Download the projects: 
 ```bash
-git clone https://github.com/ranisup97/zwallet-react-native;
-npm install;
-npx react-native run-android;
+git clone https://github.com/ranisup97/zwallet-reactjs;
+cd folder zwallet-reactjs
+npm install or yarn;
+npm start;
 
 ```
 ### `Screenshot Zwallet Web`
