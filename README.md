@@ -24,17 +24,17 @@ ZWallet ini digunakan untuk bayar, beli dan transfer ke bank lain, ada juga fitu
 
 - Before you begin, ensure you have met the following requirements:
   - NPM or Yarn as package manager
-  - react native
+  - reactjs
   
 ### `How To Install` 
 ```bash
-git clone https://github.com/ranisup97/zwallet-reactjs.git;
-cd folder zwallet-reactjs;
-npm install or yarn;
-npm start;
+1. git clone https://github.com/ranisup97/zwallet-reactjs.git;
+2. cd folder zwallet-reactjs;
+3. npm install or yarn;
+4. npm start;
 
 ```
-### `Screenshot Zwallet Web`
+### `Display Zwallet Web`
 
 * ![landing](https://user-images.githubusercontent.com/51501974/102961067-ef848000-4515-11eb-8802-61b653abd3df.PNG)
 * ![login](https://user-images.githubusercontent.com/51501974/102961070-f01d1680-4515-11eb-84da-e3230beaec4c.PNG)
