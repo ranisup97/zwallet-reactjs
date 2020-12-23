@@ -30,7 +30,7 @@ npx react-native run-android;
 ```
 ### `Screenshot Zwallet Web`
 
-![landing](https://user-images.githubusercontent.com/51501974/102961067-ef848000-4515-11eb-8802-61b653abd3df.PNG)
-![login](https://user-images.githubusercontent.com/51501974/102961070-f01d1680-4515-11eb-84da-e3230beaec4c.PNG)
-![inputamount](https://user-images.githubusercontent.com/51501974/102961061-ed222600-4515-11eb-9f62-829134be5340.PNG)
-![success](https://user-images.githubusercontent.com/51501974/102961071-f14e4380-4515-11eb-81c1-4a5f779130ff.PNG)
+* ![landing](https://user-images.githubusercontent.com/51501974/102961067-ef848000-4515-11eb-8802-61b653abd3df.PNG)
+* ![login](https://user-images.githubusercontent.com/51501974/102961070-f01d1680-4515-11eb-84da-e3230beaec4c.PNG)
+* ![inputamount](https://user-images.githubusercontent.com/51501974/102961061-ed222600-4515-11eb-9f62-829134be5340.PNG)
+* ![success](https://user-images.githubusercontent.com/51501974/102961071-f14e4380-4515-11eb-81c1-4a5f779130ff.PNG)
