@@ -11,6 +11,11 @@ Start using financial applications that can provide flexibility for you to use y
 ZWallet merupakan aplikasi atau fitur yang dikembangkan untuk memudahkan masyarakat dalam melakukan segala urusan keuangannya. 
 ZWallet ini digunakan untuk bayar, beli dan transfer ke bank lain, ada juga fitur top up e-wallet.
 
+### `Deploy`
+* https://zwalletreactjs.web.app/
+* login admin : admin@gmail.com | password: 123456
+* login user : rani@gmail.com | password: 12345678
+
 ### `Features Available`
 
 * Transfer
